@@ -1,3 +1,5 @@
 module.exports = {
-  publicPath: '/MRT-GetPrice/dist/'
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/MRT-GetPrice/'
+    : '/'
 }
