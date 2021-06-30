@@ -23,7 +23,7 @@
     </div>
     <div class="header__github">
       <a
-        href="https://github.com/JimmyAnso/mrt/tree/style/axios%2Fmrt/src"
+        href="https://github.com/JimmyAnso/MRT-GetPrice"
         target="_blank"
       >
         <img src="../../public/image/Github.png" alt="" />
